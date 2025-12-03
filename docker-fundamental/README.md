@@ -24,7 +24,7 @@ You will learn:
 ---
 
 ## 2. Create Image
-**Learn how to create image.**
+**Learn how to create image.**\
 [`create-image`](create-image.md)
 
 ## 3. Pulling Image
