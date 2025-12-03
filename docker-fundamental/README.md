@@ -23,8 +23,8 @@ You will learn:
 
 ---
 
-## 2. Pulling Image
-**Learn how to pull images from Docker registry, manage tags, and inspect local images.**  
+## 2. Create n Pulling Image
+**Learn how to create n pull images from Docker registry, manage tags, and inspect local images.**  
 [`pulling-image.md`](pulling-image.md)
 
 ---
