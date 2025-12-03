@@ -23,37 +23,41 @@ You will learn:
 
 ---
 
-## 2. Pulling Image
+## 2. Create Image
+**Learn how to create image.**
+[`create-image`](create-image.md)
+
+## 3. Pulling Image
 **Learn how pull images from Docker registry, manage tags, and inspect local images.**  
 [`pulling-image.md`](pulling-image.md)
 
 ---
 
-## 3. Running Images (Container)
+## 4. Running Images (Container)
 **Convert images into running containers using `docker run` with ports, names, and interactive mode.**  
 [`running-container.md`](running-container.md)
 
 ---
 
-## 4. Container Lifecycle
+## 5. Container Lifecycle
 **Master container lifecycle stages: create, start, stop, restart, pause, kill, remove.**  
 [`container-lifecycle.md`](container-lifecycle.md)
 
 ---
 
-## 5. Environment Variables
+## 6. Environment Variables
 **Use environment variables through flags, `.env` files, and inspect container env.**  
 [`environment-variable.md`](environment-variable.md)
 
 ---
 
-## 6. Docker Network
+## 7. Docker Network
 **Understand Docker networking, how to create networks, connect containers, and isolate traffic.**  
 [`docker-network.md`](docker-network.md)
 
 ---
 
-## 7. Docker Compose
+## 8. Docker Compose
 **Learn to orchestrate multi-container applications using `docker-compose.yml`.**  
 [`docker-compose.md`](docker-compose.md)
 
@@ -65,6 +69,7 @@ You will learn:
 docker-fundamental/
 ├── README.md
 ├── core-concept.md
+├── create-image.md
 ├── pulling-image.md
 ├── running-container.md
 ├── container-lifecycle.md
